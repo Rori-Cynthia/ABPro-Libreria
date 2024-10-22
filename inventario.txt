@@ -1,0 +1,11 @@
+[
+    {
+        "codigo": 101,
+        "nombre": "Python para Todos",
+        "precio": 15.99,
+        "cantidad": 8,
+        "autor": "Juan P\u00e9rez",
+        "editorial": "TechBooks",
+        "tipo_producto": "Libro"
+    }
+]
